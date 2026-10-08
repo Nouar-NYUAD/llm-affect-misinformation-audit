@@ -238,5 +238,5 @@ If you use this data, please cite:
 
 ## Contact
 
-For questions about the paper or data, contact Yasir Zaki (yasir.zaki@nyu.edu) or open an issue in this repository.
+For questions about the paper or data, contact Yasir Zaki (yasir.zaki@nyu.edu) or Nouar AlDahoul (nouar.aldahoul@nyu.edu) or open an issue in this repository.
 
