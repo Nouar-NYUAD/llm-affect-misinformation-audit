@@ -13,7 +13,7 @@
 This repository contains the stimuli, raw model outputs, and aggregated ratings for the paper. We audit how four LLMs simulate emotional reactions to fact-checked news headlines, both before and after the headline is labeled as *confirmed false* or *confirmed true*, and whether those reactions change with the demographic persona the model is asked to adopt.
 
 <p align="center">
-  <img src="assets/overview.png" alt="One false headline rated by Claude Haiku 4.5 before and after a veracity label, and by GPT-5.4 mini under a White and a Black persona" width="100%">
+  <img src="assets/overview_1.png" alt="One false headline rated by Claude Haiku 4.5 before and after a veracity label, and by GPT-5.4 mini under a White and a Black persona" width="100%">
 </p>
 
 <sub><b>Figure 1.</b> One false headline, two findings. (a) A veracity label flips Claude Haiku 4.5's simulated affect from negative to positive. (b) With the label, and an otherwise identical prompt, GPT-5.4 mini still assigns more negative affect to a Black persona than to a White one.</sub>
@@ -37,7 +37,7 @@ Factual correction and demographic consistency are therefore separate properties
 ## Study design
 
 <p align="center">
-  <img src="assets/pipeline.png" alt="Study pipeline: stimuli, paired prompts, querying and aggregation, analysis" width="100%">
+  <img src="assets/pipeline_1.png" alt="Study pipeline: stimuli, paired prompts, querying and aggregation, analysis" width="100%">
 </p>
 
 | | Experiment 1 (persona-free) | Experiment 2 (persona-conditioned) |
