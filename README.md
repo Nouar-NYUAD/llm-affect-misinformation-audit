@@ -70,7 +70,7 @@ Factual correction and demographic consistency are therefore separate properties
 
 ```
 .
-├── assets/                         figures used in this README
+
 ├── results/                        consensus ratings (≥ 4 of 6 runs agree) — use these for analysis
 │   ├── abstract/                   Experiment 1, persona-free
 │   │   └── {model}_{stage}_{veracity}.csv               16 files × 1,000 rows
