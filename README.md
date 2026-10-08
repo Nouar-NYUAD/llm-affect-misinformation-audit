@@ -134,9 +134,10 @@ Mapping each column through the tier table above drops all three cases automatic
 
 Over **valid** ratings for one model, dimension, and condition:
 
-- **Net sentiment** $S_\text{net} = P_\text{positive} - P_\text{negative} \in [-100\%, +100\%]$ gives the direction of the response.
-- **Emotional activation** $A_\text{emo} = P_\text{positive} + P_\text{negative} = 100\% - P_\text{neutral}$ gives how far the response departs from neutral.
+- **Net sentiment** $`S_\text{net} = P_\text{positive} - P_\text{negative}`$, ranging from −100% to +100%, gives the direction of the response.
+- **Emotional activation** $`A_\text{emo} = P_\text{positive} + P_\text{negative}`$ (equivalently, 100% minus the neutral share), ranging from 0% to 100%, gives how far the response departs from neutral.
 - **Emotional shift** is the T₂ − T₁ difference in either metric for the same headline set.
+
 
 ## Quick start
 
